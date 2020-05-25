@@ -16,7 +16,7 @@ CONVENTIONAL_PRODUCE = [
   "Eggplant"
 ]
 
-def assembled_matrix\n
+def assembled_matrix \n
 [
   ["Strawberries", "Potatoes", "Grapes", "Avocadoes", "Asparagus"],
   ["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"]
